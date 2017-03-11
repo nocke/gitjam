@@ -1,0 +1,17 @@
+{
+  "name": "gitjam",
+  "version": "0.0.1",
+  "description": "just some git macro testing etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"wish I had tests\""
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nocke/gitjam"
+  },
+  "author": "frank",
+  "license": "UNLICENSED"
+}

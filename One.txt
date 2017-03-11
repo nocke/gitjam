@@ -2,6 +2,10 @@
 Testfile One
 -----------------------
 
+*** before rebase ***
+*** before rebase ***
+*** before rebase ***
+
 master only
 
 Line 1

@@ -2,6 +2,8 @@
 Testfile One
 -----------------------
 
+master only
+
 Line 1
 Line 2
 Line 3

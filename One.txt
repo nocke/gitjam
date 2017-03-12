@@ -6,6 +6,9 @@ Testfile One
 *** before rebase ***
 *** before rebase ***
 
+*** also before rebase ***
+*** also before rebase ***
+
 master only
 
 Line 1
